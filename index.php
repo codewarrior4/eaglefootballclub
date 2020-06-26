@@ -38,7 +38,19 @@
                             <div class="akslider-module ">
                                 <div class="uk-slidenav-position" data-uk-slideshow="{height: 'auto', animation: 'swipe', duration: '500', autoplay: false, autoplayInterval: '7000', videoautoplay: true, videomute: true, kenburns: false}">
                                     <ul class="uk-slideshow uk-overlay-active">
-                                        <li aria-hidden="false" class="uk-height-viewport uk-active">
+                                    <li aria-hidden="false" class="uk-height-viewport uk-active">
+                                            <div style="background-image: url(images/logo.jpeg);" class="uk-cover-background uk-position-cover"></div><img style="width: 100%; height: auto; opacity: 0;" class="uk-invisible" src="images/logo.jpeg" alt="">
+                                            <div class="uk-position-cover uk-flex-middle">
+                                                <div class="uk-container uk-container-center uk-position-cover">
+                                                    <div class="va-promo-text uk-width-6-10 uk-push-4-10">
+                                                        <h3>Life is <span>about timing</span></h3>
+                                                        <div class="promo-sub">Just play. <span>Have fun.</span> Enjoy the game</div>
+                                                        <a href="#" class="read-more">Read More<i class="uk-icon-chevron-right"></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li aria-hidden="false" class="uk-height-viewport">
                                             <div style="background-image: url(images/main-slider-img.jpg);" class="uk-cover-background uk-position-cover"></div><img style="width: 100%; height: auto; opacity: 0;" class="uk-invisible" src="images/main-slider-img.jpg" alt="">
                                             <div class="uk-position-cover uk-flex-middle">
                                                 <div class="uk-container uk-container-center uk-position-cover">

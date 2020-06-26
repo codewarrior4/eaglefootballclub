@@ -106,6 +106,19 @@
                 </div>
             </footer>
 
+</div>
+<div id="offcanvas" class="uk-offcanvas">
+            <div class="uk-offcanvas-bar">
+                <ul class="uk-nav uk-nav-offcanvas">
+                    <li class="uk-parent uk-active"><a href="index.php">Home</a>
+                    </li>
+                    <li><a href="about.php">About</a></li>
+                    <li><a href="players.php">Players</a> </li>
+                    <li><a href="gallery.php">Gallery</a></li>
+                    <li><a href="news.php">News</a></li>
+                    <li><a href="contact.php">Contact</a></li>
+                </ul>
+            </div>
         </div>
 
         
